@@ -1,0 +1,20 @@
+01- "git init" 
+
+02- "git status"
+
+03- "git add ."
+"Staging Area mai add karny k liye"
+
+04- "git commit -m "Any Reason" " 
+"Save karwany k liye" 
+
+05- "git reset --hard" 
+"Any delete Data Recover" 
+
+06- "git remote add origin https://github.com/jawad224/Haris.git" "
+"local live/origin sy connect hojati h"    "git hub ki repository sy hota h" 
+
+07- "git remote -v" 
+"live/origin check karny k liye h."
+
+08- 
