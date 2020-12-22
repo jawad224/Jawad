@@ -14,7 +14,7 @@
 06- "git remote add origin https://github.com/jawad224/Haris.git" "
 "local live/origin sy connect hojati h"    "git hub ki repository sy hota h" 
 
-07- git push -u origin main
+07- git push -u origin master  0r main
 "Branch / Repository mai Save Karwany k liye"
 
 08- "git remote -v" 
